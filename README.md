@@ -1,4 +1,4 @@
-# music
+# vue 音乐播放器
 
 ``` bash
 # install dependencies
